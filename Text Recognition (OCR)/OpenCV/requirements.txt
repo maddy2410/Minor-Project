@@ -1,0 +1,4 @@
+Python 3.0
+OpenCV
+PyTesseract using command pip install pytesseract
+Pillow
