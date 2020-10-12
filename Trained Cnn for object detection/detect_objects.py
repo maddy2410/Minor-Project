@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-import json
 import os
 import tensorflow as tf
 import time
@@ -344,8 +343,6 @@ def detect_objects_from_image(imagePath, debug = False):
     z_index = compute_z_index(contoursBB)
     modify_response(response, z_index)
 
-    jsonResponse = json.dumps(modResponse)
 
     if debug:
         show_classes_in_window(img, response)
-    return jsonResponse
