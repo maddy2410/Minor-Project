@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 <head>
 	<title>WEB PAGE GENERATOR</title>
@@ -10,7 +10,7 @@
 	<header>
 		<div class="main">
 			<div class="logo">
-				<img src="5.jpg"/>
+				<img src="14.jpg"/>
 			</div>
 
 		</div>
